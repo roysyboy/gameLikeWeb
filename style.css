@@ -9,10 +9,33 @@
   right: 0;
   margin:auto;
   background-color: #b6fbd9;
+  max-width: 32 * 12;
+  max-height: 23 * 9;
 }
 
 body {
   background-color: #fbbcb6;
-  min-height: 500px;
 }
 
+.return_home {
+  background-color: #fbdfb6;
+  float:left;
+  font-size: 17px;
+  transition: 0.55s;
+  padding: 14px 20px;
+  width: 144px;
+  border: none;
+  outline: none;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  cursor: pointer;
+}
+.return_home:hover {
+  background-color: #eacefc;
+}
+.return_home:focus {
+  background-color: #eacefc;
+}
+.content {
+  font-size: 16px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
