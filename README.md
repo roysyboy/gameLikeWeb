@@ -3,4 +3,4 @@ This is a game-like website where the client controls a moving animated player t
 
 Purpose of this website is to create a website is to create a website where the client may have a more engaging experience while interacting with the web.
 
-I created this website purely using Javascript Canvas.
+I created this website purely out of JS Canvas and JS DOM.
